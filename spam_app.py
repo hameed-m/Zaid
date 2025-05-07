@@ -57,4 +57,4 @@ if st.button("🔍 Check Message"):
         """)
 
         st.markdown("---")
-        st.caption("Built for MIS 542 — Spam Classifier Project by [Your Name]")
+        st.caption("Built for MIS 542 — Spam Classifier Project by Team 2")
